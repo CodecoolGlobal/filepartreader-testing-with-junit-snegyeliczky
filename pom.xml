@@ -7,7 +7,10 @@
   <groupId>com.codecool</groupId>
   <artifactId>filepartreader</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>testTry</module>
+  </modules>
+  <packaging>pom</packaging>
   <name>FilePartReader testing with JUnit</name>
 
   <dependencies>
